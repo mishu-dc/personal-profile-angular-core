@@ -1,0 +1,9 @@
+.job-roles li{
+    margin-bottom: 0px !important;
+    text-align: center;
+    list-style-type: none;
+}
+
+.highlight{
+    color:#009FFF;
+}
